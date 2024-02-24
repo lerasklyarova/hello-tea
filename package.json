@@ -1,5 +1,5 @@
 {
-  "name": "hello-tea",
+  "name": "hello-tean",
   "version": "1.0.1",
   "description": "A simple example of a package.json file for a React project",
   "main": "src/index.js",
